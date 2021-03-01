@@ -1,0 +1,32 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "pashko community",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackCat0803/community-made-api-admin.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BlackCat0803/community-made-api-admin/issues"
+  },
+  "homepage": "https://github.com/BlackCat0803/community-made-api-admin#readme",
+  "dependencies": {
+    "-": "0.0.1",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.18.3",
+    "buffer": "^6.0.3",
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-jwt": "^6.0.0",
+    "g": "^2.0.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.18",
+    "npm": "^7.5.6"
+  }
+}
